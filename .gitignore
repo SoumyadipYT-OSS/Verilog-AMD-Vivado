@@ -4,3 +4,10 @@
 *.ptx
 *.cubin
 *.fatbin
+*.xpr
+*.jou
+*.log
+*.str
+*/runs/
+*/srcs/
+*/ip_user_files/
